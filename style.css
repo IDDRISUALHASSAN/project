@@ -1,0 +1,18 @@
+.footer{
+    color: chocolate;
+    text-align: justify;
+    height: 100px;
+    background-color: rgb(199, 199, 214);
+
+
+    #members{
+        padding: 49px;
+        text-align: center;
+        color: aqua;
+    }
+
+    .BBB{
+        border-radius: 5px;
+    }
+
+}
